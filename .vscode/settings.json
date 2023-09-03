@@ -1,0 +1,7 @@
+{
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "search.useIgnoreFiles": false,
+    "files.exclude": {
+        "**/desktop.ini": true
+    }
+}
